@@ -1,7 +1,3 @@
-<!-- omit in toc -->
-
-# Awesome Nextjs[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
-
 <div class="display-none">
 
 > A curated list of the best resources in the nextjs community.
